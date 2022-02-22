@@ -1,9 +1,10 @@
-# desafiocapgemini
+# desafio capgemini
 
 Tecnologia utilizada: Python
 
 Como rodar a aplicação:
-baixar Python(marcar "add to PATH" na instalação)
-baixar a extensão Python no vscode
-abrir a pasta com a resolução dos desafios
-executar o código clicando na seta verde no canto superior direito(Run Python File)
+
+1 - baixar Python(marcar "add to PATH" na instalação)
+2 - baixar a extensão Python no vscode
+3 - abrir a pasta com a resolução dos desafios
+4 - executar o código clicando na seta verde no canto superior direito(Run Python File)
